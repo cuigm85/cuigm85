@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![CKA](https://github.com/cuigm85/certificates/blob/png/certification/guangmin-cui-8f91cc18-c17c-4493-90b7-fce94a7a70e2-certificate.png?raw=true)
+![CKS](https://github.com/cuigm85/certificates/blob/png/certification/guangmin-cui-92318f01-25db-44cc-9d5b-ead10ac54484-certificate.png?raw=true)
 ![TensorFlow Developer Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56235488)
